@@ -1,0 +1,17 @@
+{
+    "cypressHelper.commandForOpen": "yarn cypress open",
+    "cypressHelper.customCommandsFolder": "cypress/support",
+    "cypressHelper.typeDefinitionExcludePatterns": [
+        "**/*.ts"
+    ],
+    "cypressHelper.typeDefinitionFile": "cypress/support/customCommands.d.ts",
+    "cypressHelper.includeAnnotationForCommands": false,
+    "cypressHelper.menuItems": {
+        "OpenSingleTest": true,
+        "OpenSpecFile": true,
+        "GenerateCustomCommandTypes": true,
+        "GoToCustomCommand": true,
+        "FindCustomCommandReferences": true,
+        "FindStepDefinitionReferences": true
+    }
+}
